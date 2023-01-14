@@ -1,0 +1,66 @@
+Partidas,Time 1,Time 2,Cartão Amarelo,,,Cartão vermelho,,,Faltas,,
+,,,time 1,time 2,Total,time 1,time 2,Total,Time 1,Time 2,Total
+"QATAR,ECUADOR",Qatar,Equador,4,2,6,0,0,0,15,15,30
+"ENGLAND, Iran",England,Iran,0,2,2,0,0,0,9,14,23
+"SENEGAL,NETHERLANDS",Senegal,Netherlands,2,1,3,0,0,0,13,13,26
+"UNITED STATES,WALES",United States,Wales,4,2,6,0,0,0,15,10,25
+"ARGENTINA,SAUDI ARABIA",Argentina,Saudi Arabia,0,6,6,0,0,0,7,21,28
+"DENMARK,TUNISIA",Denmark,Tunisia,2,1,3,0,0,0,9,10,19
+"MEXICO,POLAND",Mexico,Poland,2,0,2,0,0,0,14,16,30
+"FRANCE,AUSTRALIA",France,Australia,0,3,3,0,0,0,5,11,16
+"MOROCCO,CROATIA",Morocco,Croatia,1,0,1,0,0,0,17,11,28
+"GERMANY,JAPAN",Germany,Japan,0,0,0,0,0,0,6,14,20
+"SPAIN,COSTA RICA",Spain,Costa RIca,0,2,2,0,0,0,8,12,20
+"BELGIUM,CANADA",Belgium,Canada,3,2,5,0,0,0,11,14,25
+"SWITZERLAND,CAMEROON",Switzerland,Cameroon,2,1,3,0,0,0,12,10,22
+"URUGUAY,KOREA REPUBLIC",Uruguay,Korea Republic,1,1,2,0,0,0,7,10,17
+"PORTUGAL,GHANA",Portugal,Ghana,2,4,6,0,0,0,14,19,33
+"BRAZIL,SERBIA",Brazil,Serbia,0,3,3,0,0,0,7,12,19
+"WALES,IRAN",Wales,Iran,1,2,3,1,0,1,9,10,19
+"QATAR,SENEGAL",Qatar,Senegal,3,3,6,0,0,0,7,12,19
+"NETHERLANDS,ECUADOR",Netherlands,Ecuador,0,1,1,0,0,0,15,12,27
+"ENGLAND,UNITED STATES",England,United States,0,0,0,0,0,0,9,15,24
+"TUNISIA,AUSTRALIA",Tunisia,Australia,3,0,3,0,0,0,16,15,31
+"POLAND,SAUDI ARABIA",Poland,Saudi Arabia,3,2,5,0,0,0,18,15,33
+"FRANCE,DENMARK",France,Denmark,1,2,3,0,0,0,4,9,13
+"ARGENTINA,MEXICO",Argentina,Mexico,1,4,5,0,0,0,15,19,34
+"JAPAN,COSTA RICA",Japan,Costa RIca,3,3,6,0,0,0,22,9,31
+"BELGIUM,MOROCCO",Belgium,Morocco,1,1,2,0,0,0,10,14,24
+"CROATIA,CANADA",Croatia,Canada,2,2,4,0,0,0,13,5,18
+"SPAIN,GERMANY",Spain,Germany,1,3,4,0,0,0,13,11,24
+"CAMEROON,SERBIA",Cameroon,Serbia,2,2,4,0,0,0,8,13,21
+"KOREA REPUBLIC,GHANA",Korea Republic,Ghana,2,2,4,0,0,0,13,9,22
+"BRAZIL,SWITZERLAND",Brazil,Switzerland,1,1,2,0,0,0,10,17,27
+"PORTUGAL,URUGUAY",Portugal,Uruguay,3,2,5,0,0,0,10,16,26
+"NETHERLANDS,QATAR",Netherlands,Qatar,1,0,1,0,0,0,19,9,28
+"ECUADOR,SENEGAL",Ecuador,Senegal,0,1,1,0,0,0,23,11,34
+"WALES,ENGLAND",Wales,England,3,1,4,0,0,0,16,9,25
+"IRAN,UNITED STATES",Iran,United States,3,1,4,0,0,0,13,10,23
+"AUSTRALIA,DENMARK",Australia,Denmark,2,1,3,0,0,0,11,10,21
+"TUNISIA,FRANCE",Tunisia,France,1,0,1,0,0,0,14,6,20
+"POLAND,ARGENTINA",Poland,Argentina,1,1,2,0,0,0,6,11,17
+"SAUDI ARABIA,MEXICO",Saudi Arabia,Mexico,6,1,7,0,0,0,20,18,38
+"CROATIA,BELGIUM",Croatia,Belgium,0,1,1,0,0,0,7,9,16
+"CANADA,MOROCCO",Canada,Morocco,4,0,4,0,0,0,14,14,28
+"JAPAN,SPAIN",Japan,Spain,3,0,3,0,0,0,9,6,15
+"COSTA RICA,GERMANY",Costa Rica,Germany,1,0,1,0,0,0,3,9,12
+"GHANA,URUGUAY",Ghana,Uruguay,2,5,7,0,0,0,18,11,29
+"KOREA REPUBLIC,PORTUGAL",Korea Republic,Portugal,2,0,2,0,0,0,9,11,20
+"SERBIA, SWITZERLAND",Serbia,Switzerland,7,4,11,0,0,0,18,13,31
+"CAMEROON, BRAZIL",Cameroon,Brazil,3,2,5,1,0,1,14,14,28
+"NETHERLANDS, UNITED",Netherlands,United States,2,0,2,0,0,0,10,5,15
+"ARGENTINA , AUSTRALIA",Argentina,Australia,0,2,2,0,0,0,8,15,23
+"FRANCE, POLAND",France,Poland,1,2,3,0,0,0,10,8,18
+"ENGLAND, SENEGAL",England,Senegal,0,1,1,0,0,0,16,12,28
+"JAPAN, CROATIA",Japan,Croatia,0,2,2,0,0,0,13,16,29
+"BRAZIL, KOREA REPUBLIC",Brazil,Korea Republic,0,1,1,0,0,0,8,13,21
+"MOROCCO, SPAIN",Morocco,Spain,1,1,2,0,0,0,15,14,29
+"PORTUGAL, SWITZERLAND",Portugal,Switzerland,0,2,2,0,0,0,12,10,22
+"CROATIA, BRAZIL",Croatia,Brazil,2,3,5,0,0,0,22,24,46
+"NETHERLANDS, ARGENTINA",Netherlands,Argentina,6,8,14,1,0,1,30,18,48
+"MOROCCO, PORTUGAL",Morocco,Portugal,1,1,2,1,0,1,15,9,24
+"ENGLAND, FRANCE",England,France,1,3,4,0,0,0,10,14,24
+"ARGENTINA, CROATIA",Argentina,Croatia,2,2,4,0,0,0,15,8,23
+"MOROCCO, FRANCE",Morocco,France,0,1,1,0,0,0,11,11,22
+"CROATIA, MOROCCO",Croatia,Morocco,0,2,2,0,0,0,13,11,24
+"ARGENTINA, FRANCE",Argentina,France,5,3,8,0,0,0,28,19,47

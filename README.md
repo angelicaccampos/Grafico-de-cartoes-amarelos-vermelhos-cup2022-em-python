@@ -1,4 +1,4 @@
-# Cartao-amarelo-cartao-vermelho-faltas
+# Cartao amarelo e cartao vermelho das partidas da copa do mundo de 2022 em python
 Repositório do trabalho da matéria de Algoritmos e programação de computadores em 2022.2.  O projeto consiste em desenvolver gráficos apartir de um csv do site [Kaggle](https://www.kaggle.com/) com o tema escolhido pelo grupo, que é [Fifa World Cup 2022](https://www.kaggle.com/datasets/die9origephit/fifa-world-cup-2022-complete-dataset). Eu desenvolvi um grafico de cartões amarelos e cartões vermelhos de todas as partidas da copa do mundo de 2022.
 
 # Bibliotecas usadas

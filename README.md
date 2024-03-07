@@ -20,3 +20,7 @@ Nesse gráfico podemos ver os times de cada partida e os cartões totais de cada
 É possivel filtra o gráfico para vizualizar apenas o tipo cartão que voce deseja.
 ![Grafico filtrado2 tabela](https://github.com/angelicaccampos/Cartao-amarelo-cartao-vermelho-faltas/assets/82877749/433f7b66-68cd-4c73-a440-45c6c9ca5fba)
 ![Grafico filtrado1 tabela](https://github.com/angelicaccampos/Cartao-amarelo-cartao-vermelho-faltas/assets/82877749/237751a8-b5bf-4df8-87fb-4f82abe06a6b)
+
+## ⏲ Status do Repositório
+[![GitHub language count](https://img.shields.io/github/languages/count/angelicaccampos/Grafico-de-cartoes-amarelos-vermelhos-cup2022-em-python)](https://github.com/angelicaccampos/Grafico-de-cartoes-amarelos-vermelhos-cup2022-em-python)
+[![GitHub last commit](https://img.shields.io/github/last-commit/angelicaccampos/Grafico-de-cartoes-amarelos-vermelhos-cup2022-em-python)](https://github.com/angelicaccampos/Grafico-de-cartoes-amarelos-vermelhos-cup2022-em-python)
